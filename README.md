@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hasitha Nimsara
 
-- 👀 I’m interested in Software Engineering, Web Development, and Quality Assurance
+- 👀 I’m interested in Web Development and Quality Assurance
 - 🌱 I’m currently learning MERN Stack, QA Automation, and Cloud Computing
 - 💞️ I’m looking to collaborate on **Open-source projects, MERN stack applications, and QA-related tools**
 - 📫 How to reach me:
