@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Hasitha222
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Hasitha Nimsara
 
-<!---
-Hasitha222/Hasitha222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Software Engineering, Web Development, and Quality Assurance
+- 🌱 I’m currently learning MERN Stack, QA Automation, and Cloud Computing
+- 💞️ I’m looking to collaborate on **Open-source projects, MERN stack applications, and QA-related tools**
+- 📫 How to reach me:
+  - Email: [hasitha.gunawardana94@gmail.com](mailto:hasitha.gunawardana94@gmail.com)
+  - LinkedIn: [linkedin.com/in/hasitha2003](https://www.linkedin.com/in/hasitha2003/)
+  - GitHub: [github.com/Hasitha222](https://github.com/Hasitha222)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love automobiles and developing automation tools!**
+
+---
+⭐️ **Let's connect and build amazing projects together!** 🚀
